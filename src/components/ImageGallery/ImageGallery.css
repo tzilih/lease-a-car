@@ -1,0 +1,16 @@
+.image-number {
+    color: black;
+    padding-top: 0;
+}
+
+.image-total {
+    color: grey;
+    padding-top: 0;
+}
+
+.caption > span {
+    background-color: white;
+    width: 60px;
+    height: 10px;
+    padding: 5px;
+}

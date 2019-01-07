@@ -1,0 +1,15 @@
+div.favorite {
+    color: red;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+}
+
+.fa-heart {
+    vertical-align: bottom !important;
+}
+
+.favorite:hover {
+    background-color: #f3f2f2;
+}

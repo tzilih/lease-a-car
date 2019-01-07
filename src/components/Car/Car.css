@@ -1,0 +1,39 @@
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h5.card-title, h6.card-subtitle {
+    text-align: left;
+}
+
+.favorite-button {
+    font-size: 1.33em;
+}
+
+.monthly-fee {
+    color: #f55d22;
+    text-align: left;
+}
+
+.start-fee {
+    text-align: left;
+}
+
+.card-img {
+    height: 300px;
+    width: 400px;
+}
+
+@media only screen and (max-width: 445px) {
+	.card-img {
+        max-width: 350px;
+    }
+}
